@@ -15,7 +15,8 @@
       ```
       
 - View some data samples using matplotlib library.
-Do some preliminary processing on the data, such as
+Do some preliminary processing on the data, such as:
+
 --re-sizing images into ``` 28*28 ```
 --reshape into a single with  1 channel
 --Convert  training data from integer to float format
