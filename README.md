@@ -34,10 +34,10 @@ Do some preliminary processing on the data, such as
  ``` test_img("sample01.png")  ```
 - show the loaded image and print predicted value.
 
-#result 
+# result 
   ![3-7](result3-7.jfif)
 
-#install Lib
+# install Lib
 
 ```
  pip install -U numpy
