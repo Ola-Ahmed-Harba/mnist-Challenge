@@ -15,16 +15,16 @@
       ```
       
 - View some data samples using matplotlib library.
-Do some preliminary processing on the data, such as:
+Do some primary processing on the data(preparing data), such as:
 
 - re-sizing images into ``` 28*28 ```
-- reshape into a single with  1 channel
+- reshape  into a single one channel
 - Convert  training data from integer to float format
 - normalize to range 0-1.
 
 
 - Convert Data Labels to  one hot encode target values ``` to_categorical ``` .
-- Create simple cnn model which contains many ```layers(Conv2D, Pool ,Dense)``` as well as input and output layers.
+- Create simple cnn model which contains many layers ```(Conv2D, Pool ,Dense)``` as well as input and output layers.
 - Use relu activation function and softmax activation function for output layer.
 - set learning rate to 0.01.
 - Initiate loss function (cross-entropy).
