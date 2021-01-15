@@ -36,6 +36,7 @@ Do some primary processing on the data(preparing data), such as:
  ``` test_img("sample01.png")  ```
 - show the loaded image and print predicted value.
 
+- [[Full code](https://github.com/Ola-Ahmed-Harba/mnist-Challenge/blob/main/mo_mnist_clf.ipynb)]
 # result 
   ![3-7](result3-7.jfif)
 
